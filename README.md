@@ -1,29 +1,8 @@
 # Dog Insta - Where Dogs and Their Owners Unite: Welcome to Dog Insta 
-<br/>
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/uses-brains.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" />
-  <br/>
-  <img src="https://img.shields.io/github/repo-size/akashgreninja/Doggonation?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/akashgreninja/Doggonation?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues-closed-raw/akashgreninja/Doggonation?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/akashgreninja/Doggonation?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/akashgreninja/Doggonation?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/akashgreninja/Doggonation?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues-pr/akashgreninja/Doggonation?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/akashgreninja/Doggonation?style=for-the-badge" />
-  <img src="https://img.shields.io/github/contributors/akashgreninja/Doggonation?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues-pr-closed-raw/akashgreninja/Doggonation?style=for-the-badge" />
-  
-</div>
-<br/>
-
-<img src="https://cryptonaute.fr/wp-content/uploads/2020/06/ethereum-logo-300x300.png">
 
 
 
-<h2> This Project is not completed yet,its UI is still in Progress . Feel free to contact me through my  email mentioned on my Github Profile for any type of support or help.  </h2>
+<h2> This Project is not completed yet,its UI is still in Progress  .Some were planned ideas so some are not still complete   </h2>
 
 
 
@@ -51,29 +30,19 @@ With Dog Insta, you'll join a vibrant community that celebrates everything about
 <h2>Technologies</h2>
 <p>Dog Insta is built using the following technologies:</p>
 <ul>
-  <li>React with Vite for the frontend</li>
+
   <li>Redux for state Management</li>
   <li>Flask for the backend API</li>
   <li>Azure MySQL for the SQL database hosting</li>
-  <li>Azure App Services for hosting the backend</li>
+
   <li>Azure Cognitive Services for translation</li>
-  <li>CI/CD using GitHub Actions</li>
+  
+
 </ul>
 
 
-<h2>CI/CD using GitHub Actions</h2>
-<p>This repository implements continuous integration and continuous deployment (CI/CD) pipelines for frontend React and backend Flask code, using GitHub Actions. GitHub Actions is a platform that allows for the creation of automated workflows, including continuous integration and deployment, for software development.</p>
-<h2>Workflows</h2>
-<p>The repository has two main workflows:</p>
-<h3>1. Frontend React Workflow</h3>
-<p>The workflow runs whenever a pull request is created or updated. It checks the frontend React code for linting errors and runs unit tests. If any of the tests fail, the workflow will fail and prevent merging the pull request.</p>
-<h3>2. Backend Flask Workflow</h3>
-<p>The workflow runs whenever a pull request is created or updated. It checks the backend Flask code for linting errors and runs unit tests. If any of the tests fail, the workflow will fail and prevent merging the pull request.</p>
-<h2>Continuous Integration</h2>
-<p>By using GitHub Actions, we can ensure that every pull request to the repository is automatically checked for code quality and unit tests. This means that any errors can be detected early in the development process, saving time and effort in the long run.</p>
-<h2>Continuous Deployment</h2>
-<p>Using GitHub Actions, we can also automate the deployment process for our applications. We can set up a workflow that deploys our code to a staging environment for testing and then to production once it has been approved. This ensures that our code is always up-to-date and running smoothly.</p>
-<img src="https://i.ytimg.com/vi/0tMkRSdp-Go/maxresdefault.jpg" alt="CI/CD with GitHub Actions">
+
+
 
 # Using the AlexNet Model from Torchvision_Models Library
 <div align="center">
@@ -90,7 +59,7 @@ One of the pre-trained models available in torchvision is AlexNet, a deep convol
 
 
 
-<p>The <code>torchvision</code> module is a collection of datasets, models, and transforms for computer vision tasks in PyTorch. One of the pre-trained models included in torchvision is AlexNet, which is a deep convolutional neural network that was introduced in 2012 and won the ImageNet Large Scale Visual Recognition Challenge that year.</p>
+<p>The <code>torchvision</code> module is a collection of datasets, models, and transforms for computer vision tasks in PyTorch. One of the pre-trained models included in torch-vision is AlexNet, which is a deep convolutional neural network that was introduced in 2012 and won the ImageNet Large Scale Visual Recognition Challenge that year.</p>
 
 <pThe pretrained network can classify images into 1000 object categories, such as dogs,cats, mouse, pencil,keyboards ,more animals,etc. The model consists of 5 convolutional layers, 3 fully connected layers, and 1 softmax layer. The input to the model is a 224x224 RGB image.</p>
 
