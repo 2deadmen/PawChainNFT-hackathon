@@ -43,7 +43,7 @@ const Sidebar = (props) => {
               style={{"height":"150px","width":"150px"}}
               className="w-10/12 pl-[2vw] pt-9 m-auto "
             />
-           <p align="center" className="text-amber-300 text-xl"> <b> &nbsp; &nbsp; &nbsp; &nbsp;DOG   INSTA</b></p>
+           <p align="center" className="text-amber-300 text-xl"> <b> &nbsp; &nbsp; &nbsp; &nbsp;PAWCHAINNFT</b></p>
             <br />
             <SideBarOption to="/" icon="bi bi-house-door-fill" label="Home" />
             <Searchbar />
