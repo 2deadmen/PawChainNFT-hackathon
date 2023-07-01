@@ -1,4 +1,4 @@
-# Dog Insta - Where Dogs and Their Owners Unite: Welcome to Dog Insta 
+# PawChainNFT - Where Dogs and Their Owners Unite: Welcome to Dog Insta 
 
 <img src="https://cryptonaute.fr/wp-content/uploads/2020/06/ethereum-logo-300x300.png">
 
