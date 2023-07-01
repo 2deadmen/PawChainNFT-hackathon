@@ -123,15 +123,7 @@ Here's another image that shows the word cloud generated from our dataset:
 - Provides translation capabilities for multiple languages using Azure Cognitive Services.
 - Utilizes the translation API to seamlessly translate text.
 
-## Razorpay Payment Gateway Integration
 
-- Integrates the Razorpay payment gateway for secure and convenient online payments.
-- Supports various payment methods and ensures a smooth payment experience for users.
-
-## IP Blocker for Spam Prevention and Security
-
-- Implements an IP blocker mechanism to prevent access from known spamming IP addresses.
-- Enhances security by mitigating potential threats and unauthorized access attempts.
 
 
 <h2>Frontend</h2>
@@ -178,37 +170,13 @@ Here's another image that shows the word cloud generated from our dataset:
 <p>Feel free to modify and adapt these steps based on your specific setup and environment.</p>
 
 
-## New to Open Source programs/events!
 
-Here are few articles and Videos which will help you to get an idea on how you start contributing in open source projects,
-You can refer to the following articles on the basics of Git and Github.
 
-- [Watch this video to get started, if you have no clue about open source](https://youtu.be/SYtPC9tHYyQ)
-- [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
-- [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
-- [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
-- [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
-<h2>Open Source Contribution </h2>
-<table>
-<tr>
- <td align="center">
-<a href="https://gssoc.girlscript.tech/"><img src="https://raw.githubusercontent.com/prathimacode-hub/prathimacode-hub/main/Open%20Source%20Programs/GirlScript%20Summer%20Of%20Code%202022/GirlScript%20Summer%20Of%20Code%20Logo.png" width=100px height=100px /><br /><sub><b>Girl Script Summer of Code</b></sub></a>
- </td>
-</tr>
-</table>
 
 
 <h2>License 📝</h2>
 <p>Dog Insta is an open source project and is available under the <a href="https://github.com/your/your-project/blob/master/LICENSE">MIT License</a>.</p>
 
 
-## ❤️ Thanks to all the contributors
 
-<a href="https://github.com/2deadmen/doginsta-hackathon/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=2deadmen/doginsta-hackathon" />
-</a>
-
-🚀🚀 Thanks to all the contributors who have dedicated their time and expertise to improve and enhance Dog Insta. Their contributions are invaluable in shaping the project and making it a success.
-
-🚀🚀 Join Dog Insta, where dogs and their owners unite, and be part of the journey in building a vibrant social media platform for the dog-loving community. Together, let's create an engaging and enjoyable space where dogs and their stories can be celebrated.
