@@ -1,5 +1,2 @@
 .env
-venv/
-virtenv/
 
-__pycache__/
