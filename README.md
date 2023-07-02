@@ -2,7 +2,7 @@
 
 <img src="https://cryptonaute.fr/wp-content/uploads/2020/06/ethereum-logo-300x300.png">
 
-<h2> This Project is not completed yet,its UI is still in Progress  .Some were planned ideas so some are not still complete   </h2>
+<h2> previously known as doggonation </h2>
 
 
 
