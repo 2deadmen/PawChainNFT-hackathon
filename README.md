@@ -1,4 +1,4 @@
-# PawChainNFT - Where Dogs and Their Owners Unite: Welcome to Dog Insta 
+# PawChainNFT - Where Dogs and Their Owners Unite: Welcome to PawChainNFT 
 
 <img src="https://cryptonaute.fr/wp-content/uploads/2020/06/ethereum-logo-300x300.png">
 
@@ -6,8 +6,8 @@
 
 
 
-<p> Welcome to Dog Insta, the ultimate innovative social media platform designed exclusively for dog owners and enthusiasts ! Whether you're looking to connect with fellow dog lovers, share adorable photos of your furry friends, or seek expert advice on canine care, Dog Insta is the place to be.
-With Dog Insta, you'll join a vibrant community that celebrates everything about dogs. It also features an array of cutting-edge functionalities that facilitate a safe and enjoyable user experience. </p>
+<p> Welcome to PawChainNFT, the ultimate innovative social media platform designed exclusively for dog owners and enthusiasts ! Whether you're looking to connect with fellow dog lovers, share adorable photos of your furry friends, or seek expert advice on canine care, PawChainNFT is the place to be.
+With PawChainNFT, you'll join a vibrant community that celebrates everything about dogs. It also features an array of cutting-edge functionalities that facilitate a safe and enjoyable user experience. </p>
 
 <h2>Features 🐶</h2>
 <ul>
@@ -28,7 +28,7 @@ With Dog Insta, you'll join a vibrant community that celebrates everything about
     <p>We believe that Firebase Authentication provides a robust and reliable authentication solution that meets the needs of our project and our users. By leveraging Firebase Authentication, we can ensure that user data is secure and protected, and that our application is easy to use and access for all of our users.</p>
     <a href="https://firebase.google.com/docs/auth/?hl=en&authuser=0">Official Documentation of Firebase Authentication </a>
 <h2>Technologies</h2>
-<p>Dog Insta is built using the following technologies:</p>
+<p>PawChainNFT is built using the following technologies:</p>
 <ul>
 
   <li>Redux for state Management</li>
@@ -173,7 +173,7 @@ Here's another image that shows the word cloud generated from our dataset:
 
   <li>Start your XXAMP server.</li>
   
-  <li>Make a database server named dog insta</li>
+  <li>Make a database server named PawChainNFT</li>
 
   <li>Import the provided sample database (<code>sample_db.sql</code>) into the database server.</li>
 
@@ -194,7 +194,7 @@ Here's another image that shows the word cloud generated from our dataset:
 
 
 <h2>License 📝</h2>
-<p>Dog Insta is an open source project and is available under the <a href="https://github.com/your/your-project/blob/master/LICENSE">MIT License</a>.</p>
+<p>PawChainNFT is an open source project and is available under the <a href="https://github.com/your/your-project/blob/master/LICENSE">MIT License</a>.</p>
 
 
 
